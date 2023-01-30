@@ -1,0 +1,240 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            DESKTOP-HCR8KHQ:0      LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            DESKTOP-HCR8KHQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:5040           DESKTOP-HCR8KHQ:0      LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:49664          DESKTOP-HCR8KHQ:0      LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          DESKTOP-HCR8KHQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          DESKTOP-HCR8KHQ:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          DESKTOP-HCR8KHQ:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49668          DESKTOP-HCR8KHQ:0      LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49670          DESKTOP-HCR8KHQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:50810          DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    0.0.0.0:52869          DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    0.0.0.0:60183          DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    127.0.0.1:7880         DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    127.0.0.1:45100        DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    127.0.0.1:53462        DESKTOP-HCR8KHQ:53463  ESTABLISHED
+ [Zona.exe]
+  TCP    127.0.0.1:53463        DESKTOP-HCR8KHQ:53462  ESTABLISHED
+ [Zona.exe]
+  TCP    127.0.0.1:53464        DESKTOP-HCR8KHQ:53465  ESTABLISHED
+ [Zona.exe]
+  TCP    127.0.0.1:53465        DESKTOP-HCR8KHQ:53464  ESTABLISHED
+ [Zona.exe]
+  TCP    127.0.0.1:53466        DESKTOP-HCR8KHQ:53467  ESTABLISHED
+ [Zona.exe]
+  TCP    127.0.0.1:53467        DESKTOP-HCR8KHQ:53466  ESTABLISHED
+ [Zona.exe]
+  TCP    127.0.0.1:53470        DESKTOP-HCR8KHQ:53471  ESTABLISHED
+ [opera.exe]
+  TCP    127.0.0.1:53471        DESKTOP-HCR8KHQ:53470  ESTABLISHED
+ [opera.exe]
+  TCP    127.0.0.1:60152        DESKTOP-HCR8KHQ:60153  ESTABLISHED
+ [Zona.exe]
+  TCP    127.0.0.1:60153        DESKTOP-HCR8KHQ:60152  ESTABLISHED
+ [Zona.exe]
+  TCP    192.168.204.137:139    DESKTOP-HCR8KHQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.204.137:54672  20.199.120.151:https   ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.204.137:54687  wa-in-f188:5228        ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:54709  uslugi:https           ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:54710  yandex:https           ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:54859  yandex:https           ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:54861  149.154.167.99:https   ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:54865  5.35.170.8:http        CLOSE_WAIT
+ [Zona.exe]
+  TCP    192.168.204.137:55014  93.186.225.201:https   ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:55090  lb-140-82-114-26-iad:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:55119  srv160-185-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:55120  93.186.225.201:https   ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:55133  93.186.225.194:https   ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:55134  srv143-227:https       ESTABLISHED
+ [opera.exe]
+  TCP    192.168.204.137:55135  srv162-185-240-87:https  ESTABLISHED
+ [opera.exe]
+  TCP    [::]:135               DESKTOP-HCR8KHQ:0      LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               DESKTOP-HCR8KHQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:49664             DESKTOP-HCR8KHQ:0      LISTENING
+ [lsass.exe]
+  TCP    [::]:49665             DESKTOP-HCR8KHQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:49666             DESKTOP-HCR8KHQ:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49667             DESKTOP-HCR8KHQ:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49668             DESKTOP-HCR8KHQ:0      LISTENING
+ [spoolsv.exe]
+  TCP    [::]:49670             DESKTOP-HCR8KHQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:50810             DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    [::]:52869             DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    [::]:60183             DESKTOP-HCR8KHQ:0      LISTENING
+ [Zona.exe]
+  TCP    [::1]:49669            DESKTOP-HCR8KHQ:0      LISTENING
+ [jhi_service.exe]
+  UDP    0.0.0.0:1900           *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:1900           *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:1900           *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:1900           *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:5050           *:*                    
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [msedge.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [opera.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [msedge.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:16680          *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:16680          *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:16680          *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:16680          *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:49001          *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:50810          *:*                    
+ [Zona.exe]
+  UDP    0.0.0.0:51268          *:*                    
+ [Zona.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:49664        *:*                    
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:51787        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    169.254.156.122:50141  *:*                    
+ [Zona.exe]
+  UDP    169.254.156.122:60183  *:*                    
+ [Zona.exe]
+  UDP    192.168.204.137:137    *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.204.137:138    *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.204.137:1900   *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.204.137:2177   *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    192.168.204.137:50141  *:*                    
+ [Zona.exe]
+  UDP    192.168.204.137:50141  *:*                    
+ [Zona.exe]
+  UDP    192.168.204.137:51786  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.204.137:60183  *:*                    
+ [Zona.exe]
+  UDP    192.168.204.137:60183  *:*                    
+ [Zona.exe]
+  UDP    [::]:1900              *:*                    
+ [Zona.exe]
+  UDP    [::]:1900              *:*                    
+ [Zona.exe]
+  UDP    [::]:1900              *:*                    
+ [Zona.exe]
+  UDP    [::]:1900              *:*                    
+ [Zona.exe]
+  UDP    [::]:5353              *:*                    
+ [msedge.exe]
+  UDP    [::]:5353              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+ [opera.exe]
+  UDP    [::]:5353              *:*                    
+ [opera.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:16680             *:*                    
+ [Zona.exe]
+  UDP    [::]:16680             *:*                    
+ [Zona.exe]
+  UDP    [::]:16680             *:*                    
+ [Zona.exe]
+  UDP    [::]:16680             *:*                    
+ [Zona.exe]
+  UDP    [::]:49001             *:*                    
+ [Zona.exe]
+  UDP    [::]:50810             *:*                    
+ [Zona.exe]
+  UDP    [::]:51268             *:*                    
+ [Zona.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:51785            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::7c13:a47f:716f:9c7a%19]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::7c13:a47f:716f:9c7a%19]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::7c13:a47f:716f:9c7a%19]:51784  *:*                    
+  SSDPSRV
+ [svchost.exe]

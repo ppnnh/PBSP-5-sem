@@ -1,0 +1,4 @@
+﻿  ClientT.cpp
+E:\5sem\network_app\PBSP2\PBSP2\ClientT.cpp(49,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\5sem\network_app\PBSP2\PBSP2\ClientT.cpp(62,12): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  PBSP2.vcxproj -> E:\5sem\network_app\PBSP2\x64\Debug\ClientT.exe
