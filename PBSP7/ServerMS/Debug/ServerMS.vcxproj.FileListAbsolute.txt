@@ -1,0 +1,2 @@
+E:\1Uni\ПСП(Шиман)\Лабораторная 7\ServerMS\Debug\ServerMS.exe
+E:\5sem\network_app\NetApp\Lab7\ServerMS\Debug\ServerMS.exe
